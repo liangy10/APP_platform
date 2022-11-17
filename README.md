@@ -1,6 +1,6 @@
 # APP_platform
 
-We designed a low-cost glass pipette pulling device called affordable pipette puller (APP) and manuscript will be submitted for review soon.
+We designed a low-cost glass pipette pulling device called affordable pipette puller (APP) using Tinkercad and manuscript will be submitted for review soon.
 
 There are the stl files (from A through E) exported from Tinkercad as well as the gcode files sliced by Ultimaker Cura for printing using Creality Ender 3 v2. 
 
